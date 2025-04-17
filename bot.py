@@ -1,8 +1,8 @@
 import telebot
 from telebot import types
 
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
-ADMIN_ID = 123456789  # استبدل برقم ID الأدمن
+TOKEN = '7742479143:AAHzp86TrQwLngS7BPko2xcWRpmY3HW-cIo'
+ADMIN_ID = 6662120440  # استبدل برقم ID الأدمن
 
 bot = telebot.TeleBot(TOKEN)
 orders = {}
